@@ -1,7 +1,10 @@
-# DevOps Stage 0 - HNG13
+# HNG13 Stage 0 - DevOps
 
 **Name:** Mordecai Oke  
-**Slack Username:** @mordecai  
-**Description:**  
-This project is part of the HNG13 DevOps Stage 0 challenge. It deploys an NGINX web server that serves a simple webpage showing my details and deployment information.  
+**Slack Username:** mordecaioke  
+**Project Description:**  
+This is my Stage 0 DevOps task for HNG13. It involves deploying an NGINX web server to serve a custom HTML page that’s publicly accessible on port 80.
+
+**Server URL:** [https://hng13-stage0-devops-rqtx.onrender.com/](https://hng13-stage0-devops-rqtx.onrender.com/)
+
 
